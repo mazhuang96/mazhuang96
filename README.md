@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+> The mystery of creation is like the darkness of night--it is great.  
+Delusions of knowledge are like the fog of the morning.
+
 <!--
 **mazhuang96/mazhuang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
